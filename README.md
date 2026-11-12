@@ -1,7 +1,16 @@
 <div align="center">
-  
+
+
 ## About me:
-I'm a .NET developer with 5+ years of experience in building fun <a href="https://unity.com/">Unity</a> games, while also specializing in modern <a href="https://avaloniaui.net/">Avalonia</a> applications and space themed HLSL shaders.
+  
+<div align="left">
+  
+- I am a .NET developer with extensive experience in building <a href="https://unity.com/">Unity</a> games and <a href="https://avaloniaui.net/">Avalonia</a> desktop applications. I also specialize in computer graphics such as space-themed HLSL shaders.
+- Recently, I have been focusing on <a href="https://godotengine.org/">Godot</a> and web development.
+- I am familiar with multiple IDEs, including the JetBrains suite and Visual Studio.
+
+
+</div>
 
 ---
 
